@@ -21,7 +21,7 @@ menu: Bookmark
 
   - [awesome-AIOps](https://github.com/linjinjin123/awesome-AIOps)
   
-  - [智能运维-异常捕获](https://github.com/meixinyun/AbnormalDetection) - 故障定位，异常捕获
+  - [智能运维-异常捕获](https://github.com/ieasydevops/AbnormalDetection) - 故障定位，异常捕获
   
 
 ## 系统架构
